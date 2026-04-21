@@ -1,0 +1,17 @@
+{
+    "file": "files/guests.xlsx",
+    "event_name": "YOUR EVENT NAME HERE",
+    "event_date": "YOUR EVENT DATE HERE",
+    "from_name": "YOUR ORGANIZATION NAME HERE",
+    "reply_to": "",
+    "subject": "",
+    "template": "message_template.txt",
+    "html": true,
+    "logo": "",
+    "embedded_image": "",
+    "attachments": [],
+    "batch_size": 25,
+    "batch_sleep_seconds": 1800,
+    "min_delay": 8.0,
+    "max_delay": 15.0
+}

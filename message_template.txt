@@ -1,0 +1,32 @@
+// ============================================
+// EMAIL MESSAGE TEMPLATE
+// ============================================
+// Edit this file with your email message
+// Use {name} to insert the guest's name
+// Use {event_name} to insert the event name
+// Use {event_date} to insert the event date
+//
+// Example in English:
+// Hello {name},
+// You are invited to {event_name}
+// Date: {event_date}
+// We look forward to seeing you!
+//
+// Example in Arabic:
+// مرحبا {name}،
+// أنت مدعو لحضور {event_name}
+// التاريخ: {event_date}
+// نتطلع لرؤيتك!
+// ============================================
+
+// ADD YOUR MESSAGE HERE
+// Replace everything below with your own message
+
+Hello {name},
+
+You are invited to {event_name}
+Date: {event_date}
+
+We look forward to seeing you!
+
+Best regards
